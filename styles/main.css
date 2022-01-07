@@ -1,0 +1,32 @@
+.img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 20%;
+}
+
+.info {
+    text-align: center;
+}
+
+.sub-section {
+    border: 1px black solid;
+    margin-bottom: 2em;
+    padding: 1em;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color:blue;
+}
+
+a:hover {
+    color: red;
+}
+
+body {
+    background-color:paleturquoise;
+}
